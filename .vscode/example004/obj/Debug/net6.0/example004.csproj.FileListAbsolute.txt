@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\лекция №1\.vscode\example004\bin\Debug\net6.0\example004.exe
+C:\Users\PC\Desktop\лекция №1\.vscode\example004\bin\Debug\net6.0\example004.deps.json
+C:\Users\PC\Desktop\лекция №1\.vscode\example004\bin\Debug\net6.0\example004.runtimeconfig.json
+C:\Users\PC\Desktop\лекция №1\.vscode\example004\bin\Debug\net6.0\example004.dll
+C:\Users\PC\Desktop\лекция №1\.vscode\example004\bin\Debug\net6.0\example004.pdb
+C:\Users\PC\Desktop\лекция №1\.vscode\example004\obj\Debug\net6.0\example004.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\лекция №1\.vscode\example004\obj\Debug\net6.0\example004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\лекция №1\.vscode\example004\obj\Debug\net6.0\example004.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\лекция №1\.vscode\example004\obj\Debug\net6.0\example004.AssemblyInfo.cs
+C:\Users\PC\Desktop\лекция №1\.vscode\example004\obj\Debug\net6.0\example004.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\лекция №1\.vscode\example004\obj\Debug\net6.0\example004.dll
+C:\Users\PC\Desktop\лекция №1\.vscode\example004\obj\Debug\net6.0\refint\example004.dll
+C:\Users\PC\Desktop\лекция №1\.vscode\example004\obj\Debug\net6.0\example004.pdb
+C:\Users\PC\Desktop\лекция №1\.vscode\example004\obj\Debug\net6.0\example004.genruntimeconfig.cache
+C:\Users\PC\Desktop\лекция №1\.vscode\example004\obj\Debug\net6.0\ref\example004.dll
