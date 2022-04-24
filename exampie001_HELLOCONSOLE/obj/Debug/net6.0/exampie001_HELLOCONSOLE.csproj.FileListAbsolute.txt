@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\лекция №1\exampie001_HELLOCONSOLE\bin\Debug\net6.0\exampie001_HELLOCONSOLE.exe
+C:\Users\PC\Desktop\лекция №1\exampie001_HELLOCONSOLE\bin\Debug\net6.0\exampie001_HELLOCONSOLE.deps.json
+C:\Users\PC\Desktop\лекция №1\exampie001_HELLOCONSOLE\bin\Debug\net6.0\exampie001_HELLOCONSOLE.runtimeconfig.json
+C:\Users\PC\Desktop\лекция №1\exampie001_HELLOCONSOLE\bin\Debug\net6.0\exampie001_HELLOCONSOLE.dll
+C:\Users\PC\Desktop\лекция №1\exampie001_HELLOCONSOLE\bin\Debug\net6.0\exampie001_HELLOCONSOLE.pdb
+C:\Users\PC\Desktop\лекция №1\exampie001_HELLOCONSOLE\obj\Debug\net6.0\exampie001_HELLOCONSOLE.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\лекция №1\exampie001_HELLOCONSOLE\obj\Debug\net6.0\exampie001_HELLOCONSOLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\лекция №1\exampie001_HELLOCONSOLE\obj\Debug\net6.0\exampie001_HELLOCONSOLE.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\лекция №1\exampie001_HELLOCONSOLE\obj\Debug\net6.0\exampie001_HELLOCONSOLE.AssemblyInfo.cs
+C:\Users\PC\Desktop\лекция №1\exampie001_HELLOCONSOLE\obj\Debug\net6.0\exampie001_HELLOCONSOLE.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\лекция №1\exampie001_HELLOCONSOLE\obj\Debug\net6.0\exampie001_HELLOCONSOLE.dll
+C:\Users\PC\Desktop\лекция №1\exampie001_HELLOCONSOLE\obj\Debug\net6.0\refint\exampie001_HELLOCONSOLE.dll
+C:\Users\PC\Desktop\лекция №1\exampie001_HELLOCONSOLE\obj\Debug\net6.0\exampie001_HELLOCONSOLE.pdb
+C:\Users\PC\Desktop\лекция №1\exampie001_HELLOCONSOLE\obj\Debug\net6.0\exampie001_HELLOCONSOLE.genruntimeconfig.cache
+C:\Users\PC\Desktop\лекция №1\exampie001_HELLOCONSOLE\obj\Debug\net6.0\ref\exampie001_HELLOCONSOLE.dll
